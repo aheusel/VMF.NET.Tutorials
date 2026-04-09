@@ -4,7 +4,7 @@ C# port of the [VMF-Tutorials](https://github.com/miho/VMF-Tutorials) for [VMF.N
 
 ## Prerequisites
 
-- .NET 10 SDK or later
+- .NET 6 SDK or later
 
 ## Running a Tutorial
 
