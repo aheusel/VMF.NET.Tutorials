@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="Tutorial01/Tutorial01.csproj" />
+  <Project Path="Tutorial02/Tutorial02.csproj" />
+  <Project Path="Tutorial03/Tutorial03.csproj" />
+  <Project Path="Tutorial03b/Tutorial03b.csproj" />
+  <Project Path="Tutorial04/Tutorial04.csproj" />
+  <Project Path="Tutorial05/Tutorial05.csproj" />
+  <Project Path="Tutorial06/Tutorial06.csproj" />
+  <Project Path="Tutorial07/Tutorial07.csproj" />
+  <Project Path="Tutorial08/Tutorial08.csproj" />
+  <Project Path="Tutorial09/Tutorial09.csproj" />
+  <Project Path="Tutorial10/Tutorial10.csproj" />
+  <Project Path="Tutorial11/Tutorial11.csproj" />
+  <Project Path="Tutorial12/Tutorial12.csproj" />
+  <Project Path="Tutorial13/Tutorial13.csproj" />
+  <Project Path="Tutorial14/Tutorial14.csproj" />
+</Solution>
